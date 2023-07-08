@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;}
+    
+    
+    
+footer{
+    width: 390px;
+    margin-left: 350px;  
+    padding-top:100px;
+
+    }
+.space{
+    
+    height: 80px;
+    background-color: white;
+}
+ .button_checkout{
+    width: 234px;
+   height: 52px;
+   background: #393939;
+   border-radius: 48px;
+   color: white; 
+   margin-top: 100px;
+   margin-left: 73px;
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 3px;}
+
+.totalfooter{
+    height: 230px;
+    background-color: 
+    rgba(0, 0, 0, 0.03);
+    padding-top: 10px;
+}
+.total{
+    color: 
+    rgba(57, 57, 57, 1);
+    font-weight: 400;
+}
+/* .finallyprice{
+    color:rgba(57, 57, 57, 1) ;
+    font-weight: 700;
+} */
+
+
+.price_total{
+
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
