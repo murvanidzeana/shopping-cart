@@ -3,10 +3,11 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-size: 14px;
 }
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Raleway:wght@600;900&display=swap');
 
 .conteiner{
     width: 390px;
@@ -86,13 +87,15 @@
        border-radius: 48px;
        text-decoration: none;
        font-weight: 500;
-       font-size: 10px;
-       color: #FFFFFF;
+       font-size: 12px;
+       color:rgba(255, 255, 255, 1);
        text-align: center;
        cursor: pointer;
+       font-family: 'Raleway', sans-serif;
 
        
   }
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Raleway:wght@500;600;900&display=swap');
 
   .products::after{
     content: '';

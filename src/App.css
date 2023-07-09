@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: 'Raleway', sans-serif;
 }
 .app{
   height: 10000px;
@@ -29,7 +30,9 @@ h6{
 }
 .finallyprice{
   margin-left: 670px;
-  margin-top: -220px;
+  margin-top: -210px;
+  color:rgba(57, 57, 57, 1);
+  font-weight: 800;
 }
 
 /* .App {

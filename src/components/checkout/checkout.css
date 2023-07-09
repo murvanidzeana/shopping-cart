@@ -1,7 +1,8 @@
 *{
     box-sizing: border-box;
     margin: 0;
-    padding: 0;}
+    padding: 0;
+    }
     
     
     
@@ -19,16 +20,19 @@ footer{
  .button_checkout{
     width: 234px;
    height: 52px;
-   background: #393939;
+   background:rgba(57, 57, 57, 1);
    border-radius: 48px;
    color: white; 
    margin-top: 100px;
    margin-left: 73px;
-   font-family: 'Poppins';
+  
    font-style: normal;
-   font-weight: 500;
-   font-size: 16px;
-   line-height: 3px;}
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 3px;
+   font-family: 'Raleway', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Raleway:wght@500;600;900&display=swap');
 
 .totalfooter{
     height: 230px;
@@ -40,11 +44,11 @@ footer{
     color: 
     rgba(57, 57, 57, 1);
     font-weight: 400;
+    font-size: 17px;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 10px;
 }
-/* .finallyprice{
-    color:rgba(57, 57, 57, 1) ;
-    font-weight: 700;
-} */
+
 
 
 .price_total{
