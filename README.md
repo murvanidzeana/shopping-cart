@@ -1,3 +1,12 @@
+
+1// add to cart-ზე დაკლიკვისას ზემოთ აიქონტან დაითვლება რაოდენობა , ხოლო ქვემოთ თოთალტან დააჯამებს ფასებს.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
